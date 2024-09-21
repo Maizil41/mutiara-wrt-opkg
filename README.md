@@ -16,3 +16,9 @@ Cara pasang : Copy paste di `Terminal`
 sed -i 's/option check_signature/# option check_signature/g' /etc/opkg.conf
 echo "src/gz mutiara_wrt https://raw.githubusercontent.com/maizil41/mutiara-wrt-opkg/main/generic" >> /etc/opkg/customfeeds.conf
 ```
+
+Lanjutkan `opkg update` supaya list ipknya muncul
+
+```
+opkg update
+```
