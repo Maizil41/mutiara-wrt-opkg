@@ -8,7 +8,7 @@ Repository ini berisi ipk hasil compile disaat gabut, `(mungkin)` ada beberapa i
 
 </br>
 
-Copy paste di `Terminal`
+Cara pasang : Copy paste di `Terminal`
 
 ```
 sed -i 's/option check_signature/# option check_signature/g' /etc/opkg.conf
