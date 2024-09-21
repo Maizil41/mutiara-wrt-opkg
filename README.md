@@ -6,6 +6,8 @@
 
 Repository ini berisi ipk hasil compile disaat gabut, `(mungkin)` ada beberapa ipk yang berguna
 
+`Kemungkinan` work untuk semua FW, kalo gak work berarti `gak work 😜` , mau bagaimana lagi
+
 </br>
 
 Cara pasang : Copy paste di `Terminal`
