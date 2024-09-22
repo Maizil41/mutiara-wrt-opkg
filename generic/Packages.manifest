@@ -1,5 +1,5 @@
 Repository: My Custom Repo
-Date: Sun Sep 22 11:32:35 PM WIB 2024
+Date: Sun Sep 22 11:54:50 PM WIB 2024
 
 Package: bandwidthd
 Version: 2.0.1
@@ -39,5 +39,5 @@ Size: 2734202
 Package: radius-monitor
 Version: 2.3
 Filename: radius-monitor_2.3_all.ipk
-Size: 1567
+Size: 1550
 
