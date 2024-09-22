@@ -77,7 +77,7 @@ SHA256sum: dae96444bc52cc42594c1a99ca5e87ffe461b5b464fe5ae438c2eac53a1c0738
 Description:  Application for monitoring RADIUS server.
 
 Package: radius-monitor
-Version: 2.2
+Version: 2.3
 Depends: libc, curl
 Source: maizil41/radius-monitor
 SourceName: radius-monitor
@@ -87,9 +87,9 @@ SourceDateEpoch: 1721081658
 Maintainer: OpenWrt LuCI community
 Architecture: all
 Installed-Size: 406
-Filename: radius-monitor_2.2_all.ipk
-Size: 1209
-SHA256sum: ec21da17f9af4f1427f9b542191ad76605862a29c675bbf717b88a395513d994
+Filename: radius-monitor_2.3_all.ipk
+Size: 1567
+SHA256sum: 59c2959f30be169108ce8d7c18936dfcd394fd6a5f9ce8fabd21e4914286b728
 Description:  Monitoring RADIUS server.
 
 Package: luci-app-tinyfm-php7
