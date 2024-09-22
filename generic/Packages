@@ -88,8 +88,8 @@ Maintainer: OpenWrt LuCI community
 Architecture: all
 Installed-Size: 406
 Filename: radius-monitor_2.3_all.ipk
-Size: 1550
-SHA256sum: 510821c1c064e1274bb5642777517a78f0e12b5524fe696c467a1e01f8808373
+Size: 1526
+SHA256sum: 3d831f937aa5d7f22a07417bb3aaa9916b0aee0a0a94679efe03492a45405742
 Description:  Monitoring RADIUS server.
 
 Package: luci-app-tinyfm-php7
