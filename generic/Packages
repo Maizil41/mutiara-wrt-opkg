@@ -122,3 +122,18 @@ Size: 2734202
 SHA256sum: 2c7fa1173ec149bf70884c330bb3f6bf10f106b7f317296f217a897a8d8f882f
 Description:  This is Tiny File Manager, but for LuCI OpenWrt.
 
+Package: luci-app-openclash
+Version: 0.46.031-beta
+Depends: libc, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, ca-certificates, ipset, ip-full, libcap, libcap-bin, ruby, ruby-yaml, kmod-tun, unzip
+Source: maizil41/luci-app-openclash
+SourceName: luci-app-openclash
+Section: opt
+SourceDateEpoch: 1721081658
+Maintainer: vernesong
+Architecture: all
+Installed-Size: 8571280
+Filename: luci-app-openclash_0.46.031-beta_all.ipk
+Size: 8547477
+SHA256sum: c7d8781d6887ab09d873ddd52f714b83388c1aa21d899f124d45c2960ff260b3
+Description:  A LuCI support for clash
+
