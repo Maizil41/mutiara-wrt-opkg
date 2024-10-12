@@ -1,0 +1,144 @@
+Package: luci-app-bandwidthd
+Version: 1-1
+Depends: libc
+Source: maizil41/luci-app-bandwidthd
+SourceName: luci-app-bandwidthd
+Section: opt
+SourceDateEpoch: 1492154785
+Maintainer: Alex Zhuo <1886090@gmail.com>
+Architecture: all
+Installed-Size: 1809
+Filename: luci-app-bandwidthd_1-1_all.ipk
+Size: 2542
+SHA256sum: 0f18319cd2ebdaef9445d9ea4bdfe439bdbd22c39b41d6a579e91913783c5ab2
+Description:  A luci app for bandwidthd
+
+Package: luci-app-pppoe-server
+Version: 1.1
+Depends: libc, rp-pppoe-common, rp-pppoe-server, luci
+Source: maizil41/luci-app-pppoe-server
+SourceName: luci-app-pppoe-server
+Section: luci
+SourceDateEpoch: 1721081658
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 5192
+Filename: luci-app-pppoe-server_1.1_all.ipk
+Size: 6052
+SHA256sum: 6b483c23f5af3b783fd1a0377de3ef29bc41883e1bbee4e1966e449e0423b3d3
+Description:  LuCI support for PPPoE Server
+
+Package: luci-app-telebot-radius
+Version: 2.3-1
+Depends: luci, python3, python3-pip
+Source: maizil41/luci-app-telebot-radius
+SourceName: luci-app-telebot-radius
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1721081658
+Maintainer: Maizil <maizilpc7@gmail.com>
+Architecture: all
+Installed-Size: 22564
+Filename: luci-app-telebot-radius_2.3-1_all.ipk
+Size: 23713
+SHA256sum: 4118a4402d8e72b9324c7c10ec63e5009d725f6554c6d17fbb10a95fb5724b05
+Description:  Bot Telegram for Monitoring RADIUS server.
+
+Package: bandwidthd
+Version: 2.0.1-35-7
+Depends: libc, libgd, libpcap1
+Source: maizil41/bandwidthd
+SourceName: bandwidthd
+License: GPL-2.0-or-later
+Section: utils
+SourceDateEpoch: 1666746296
+Maintainer: Jean-Michel Lacroix <lacroix@lepine-lacroix.info>
+Architecture: all
+Installed-Size: 33337
+Filename: bandwidthd_2.0.1-35-7_all.ipk
+Size: 34063
+SHA256sum: 18f99a3dd3de3f08274dbc48df54371e46fa46471f2a3a3335551ebba68463ee
+Description:  A bandwidthd tracking utility.
+
+Package: luci-app-openclash
+Version: 0.46.031-beta
+Depends: libc, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, ca-certificates, ipset, ip-full, libcap, libcap-bin, ruby, ruby-yaml, kmod-tun, unzip
+Source: maizil41/luci-app-openclash
+SourceName: luci-app-openclash
+License: Apache-2.0
+Section: opt
+SourceDateEpoch: 1727094886
+Maintainer: vernesong
+Architecture: all
+Installed-Size: 6183137
+Filename: luci-app-openclash_0.46.031-beta_all.ipk
+Size: 8224637
+SHA256sum: 7250a45f2c6271d4f1a71b8a5cb179ecfdb71918871b2ac8a1890da9262cc597
+Description:  A LuCI support for clash
+
+Package: luci-app-whatsapp-bot
+Version: 1.1
+Depends: libc, node, node-npm, luci
+Source: maizil41/luci-app-whatsapp-bot
+SourceName: luci-app-whatsapp-bot
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1727094886
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 96255
+Filename: luci-app-whatsapp-bot_1.1_all.ipk
+Size: 97160
+SHA256sum: 386af3eb4ca786cbf1df403273cef0f01c13e53e42469cafc7798a559443cae1
+Description:  Bot Whatsapp for Radius Monitor.
+
+Package: luci-app-radmon-php7
+Version: 2.3
+Depends: libc, luci, php7-cli, php7-mod-mysqli, php7-mod-pdo-mysql, php7-mod-gd, php7-mod-xml, php7-mod-filter, php7-mod-curl
+Source: maizil41/luci-app-radmon-php7
+SourceName: luci-app-radmon-php7
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1727094886
+Maintainer: Maizil <maizilpc7@gmail.com>
+Architecture: all
+Installed-Size: 980
+Filename: luci-app-radmon-php7_2.3_all.ipk
+Size: 1855
+SHA256sum: 7bfcef2b84da91a4fa2c16397c5706e2c320420e5ec77bb4c8ae91d4e67623be
+Description:  Application for monitoring RADIUS server.
+
+Package: luci-app-radmon-php8
+Version: 2.3
+Depends: libc, luci, php8-cli, php8-mod-mysqli, php8-mod-pdo-mysql, php8-mod-gd, php8-mod-xml, php8-mod-filter, php8-mod-curl, iptables-nft, iptables-mod-hashlimit
+Source: maizil41/luci-app-radmon-php8
+SourceName: luci-app-radmon-php8
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1727094886
+Maintainer: Maizil <maizilpc7@gmail.com>
+Architecture: all
+Installed-Size: 980
+Filename: luci-app-radmon-php8_2.3_all.ipk
+Size: 1875
+SHA256sum: 369be4f95739ada44edd95b4df3d15cb20521b2a0f42c469d4fda6d49f6b12eb
+Description:  Application for monitoring RADIUS server.
+
+Package: luci-app-tinyfm
+Version: 2.5
+Depends: libc, php8, php8-cgi, php8-mod-session, php8-mod-ctype, php8-mod-fileinfo, php8-mod-zip, php8-mod-iconv, coreutils-stat, php8-mod-mbstring, zoneinfo-asia
+Source: maizil/luci-app-tinyfm
+SourceName: luci-app-tinyfm
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1683290055
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 1826911
+Filename: luci-app-tinyfm_2.5-php8_all.ipk
+Size: 2734199
+SHA256sum: 8327c8b106464b3ac0b41a2d1e7dda970d335b56ca5d82ca575bf1969c843022
+Description:  This is Tiny File Manager, but for LuCI OpenWrt.
+
+
+
