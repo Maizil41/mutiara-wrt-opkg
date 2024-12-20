@@ -61,18 +61,18 @@ SHA256sum: 18f99a3dd3de3f08274dbc48df54371e46fa46471f2a3a3335551ebba68463ee
 Description:  A bandwidthd tracking utility.
 
 Package: luci-app-openclash
-Version: 0.46.044-beta
-Depends: libc, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, ca-certificates, ipset, ip-full, libcap, libcap-bin, ruby, ruby-yaml, kmod-tun, unzip
-Source: package/luci-app-openclash
+Version: 0.46.060
+Depends: libc, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, ca-certificates, ip-full, libcap, libcap-bin, ruby, ruby-yaml, kmod-tun, unzip
+Source: feeds/base/luci-app-openclash
 SourceName: luci-app-openclash
 Section: opt
-SourceDateEpoch: 1721081658
+SourceDateEpoch: 1727094886
 Maintainer: vernesong
 Architecture: all
-Installed-Size: 7651661
-Filename: luci-app-openclash_0.46.044-beta_all.ipk
-Size: 7612830
-SHA256sum: 51c4d79999e3750af59521dca8476e094e80ee6f87db9fec0d37983445fb3c04
+Installed-Size: 8192908
+Filename: luci-app-openclash_0.46.060_all.ipk
+Size: 8152904
+SHA256sum: 3896cf4fe94cda07439453a4fc6ee5c856f7e5a3187374f7cdf0086e6ba82497
 Description:  A LuCI support for clash
 
 Package: luci-app-whatsapp-bot

@@ -1,5 +1,5 @@
 Repository: My Custom Repo
-Date: Thu Oct 17 08:08:44 AM WIB 2024
+Date: Fri Dec 20 09:41:57 PM WIB 2024
 
 Package: bandwidthd
 Version: 2.0.1
@@ -12,9 +12,9 @@ Filename: luci-app-bandwidthd_1-1_all.ipk
 Size: 2542
 
 Package: luci-app-openclash
-Version: 0.46.044
-Filename: luci-app-openclash_0.46.044-beta_all.ipk
-Size: 7612830
+Version: 0.46.060
+Filename: luci-app-openclash_0.46.060_all.ipk
+Size: 8152904
 
 Package: luci-app-pppoe-server
 Version: 1.1
