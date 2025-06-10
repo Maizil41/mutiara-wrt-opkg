@@ -46,3 +46,8 @@ Version: 1.1
 Filename: luci-app-whatsapp-bot_1.1_all.ipk
 Size: 97160
 
+Package: luci-app-coovachilli
+Version: 1.0
+Filename: luci-app-coovachilli_1.0_all.ipk
+Size: 3418
+
