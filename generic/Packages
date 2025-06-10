@@ -149,7 +149,7 @@ Section: luci
 SourceDateEpoch: 1727094886
 Maintainer: Maizil41 <https://github.com/maizil41>
 Architecture: all
-Installed-Size: 1826911
+Installed-Size: 3418
 Filename: luci-app-coovachilli_1.0_all.ipk
 Size: 3418
 SHA256sum: 66f2776ff046e7f4218ef6be5996c92c1fc6c4e1abcde1b14bf699c5056c3235
