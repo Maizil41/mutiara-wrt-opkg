@@ -139,5 +139,19 @@ Size: 2734199
 SHA256sum: 8327c8b106464b3ac0b41a2d1e7dda970d335b56ca5d82ca575bf1969c843022
 Description:  This is Tiny File Manager, but for LuCI OpenWrt.
 
-
+Package: luci-app-coovachilli
+Version: 1.0
+Depends: libc, luci, coova-chilli, luci-lua-runtime
+Source: feeds/base/luci-app-coovachilli
+SourceName: luci-app-coovachilli
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1727094886
+Maintainer: Maizil41 <https://github.com/maizil41>
+Architecture: all
+Installed-Size: 1826911
+Filename: luci-app-tinyfm_2.5-php8_all.ipk
+Size: 3418
+SHA256sum: 66f2776ff046e7f4218ef6be5996c92c1fc6c4e1abcde1b14bf699c5056c3235
+Description:  This package contains LuCI configuration pages for coovachilli.
 
